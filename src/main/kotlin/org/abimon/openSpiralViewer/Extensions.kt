@@ -1,0 +1,1 @@
+typealias ColourFX = javafx.scene.paint.Color
